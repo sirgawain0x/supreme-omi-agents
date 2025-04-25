@@ -1,0 +1,6 @@
+[submodule "src/daw/omi"]
+	path = src/daw/omi
+	url = https://github.com/BasedHardware/omi
+[submodule "src/daw/gpuaudio"]
+	path = src/daw/gpuaudio
+	url = https://github.com/gpuaudio/gpuaudio-sdk
